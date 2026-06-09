@@ -5,7 +5,7 @@ Potato is a 2D platformer with enimies, colectables, and moving platforms, I tri
 please only use patch 2 none of the others will work proporly without a lot of effort,
 to play my game you need either a keyboard or a controler you can't use touch
 
-if you would like to look at source files (please use potato copy to open source files), since I made the game godot there is only one way to veiw it: download potato copy, unzip the folder (you should see multiple folders and files not in folders DON'T PUT ANY FILES THAT ARN'T IN A FOLDER IN A FOLDER AND DON'T MOVE ANY FILES OUT OF FOLDERS INTO NEW ONES), next download and open or just open godot, click import, and open it by double clicking you should see the game you can look at the levels and/or the scripts to see how it all works.
+if you would like to look at source files (please use potato copy to open source files), since I made the game godot there is only one way to veiw it: download potato copy, next download and open or just open godot, click import, and open it by double clicking you should see the game you can look at the levels and/or the scripts to see how it all works. (you can follow the video below)
 
 do note that it is currently only playable on Windows 
 
