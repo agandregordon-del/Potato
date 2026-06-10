@@ -6,7 +6,7 @@ please go to aganre.itch.io/potato to lay the game in full thank you.
 
 to play my game you need either a keyboard or a controler you can't use touch
 
-if you would like to look at source files (please use potato copy to open source files), since I made the game godot there is only one way to veiw it: download potato copy, next download and open or just open godot, click import next to the create button in the top left corner, click the potato copy zip hit import and ok if it prompts you woth something, you should see the game you can look at the levels and/or the scripts to see how it all works.
+if you would like to look at source files (please ignore the zip files), you can open the other files to look at source code.
 
 do note that it is currently only playable on Windows and linux (not sure about mac because I don't own any apple products) can not be played on mobile
 
