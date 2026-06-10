@@ -2,7 +2,7 @@ Potato
 
 Potato is a 2D platformer with enimies, colectables, and moving platforms, I tried to make sure every level felt like it's own world.
 
-please go to aganre.itch.io/potato to lay the game in full thank you.
+please go to agandre.itch.io/potato to lay the game in full thank you.
 
 to play my game you need either a keyboard or a controler you can't use touch
 
